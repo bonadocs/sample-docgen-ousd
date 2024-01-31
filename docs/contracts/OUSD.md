@@ -417,7 +417,7 @@ function _mint(address _account, uint256 _amount) internal
 Creates `_amount` tokens and assigns them to `_account`, increasing
 the total supply.
 
-Emits a {Transfer} event with `from` set to the zero address.
+Emits a `Transfer` event with `from` set to the zero address.
 
 Requirements
 
@@ -448,7 +448,7 @@ function _burn(address _account, uint256 _amount) internal
 Destroys `_amount` tokens from `_account`, reducing the
 total supply.
 
-Emits a {Transfer} event with `to` set to the zero address.
+Emits a `Transfer` event with `to` set to the zero address.
 
 Requirements
 

@@ -21,7 +21,7 @@ function maxDeposit(address) public view virtual returns (uint256)
 
 
 
-See {IERC4262-maxDeposit}
+See `IERC4262-maxDeposit`
 
 
 
