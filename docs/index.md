@@ -3,13 +3,13 @@ sidebar_position: 1
 slug: /
 ---
 
-# My Project Documentation
+# OUSD Documentation
 
-The next big thing.
+The [OUSD contracts](https://github.com/OriginProtocol/origin-dollar).
 
 
-This website was generated with [Bonadocs](https://bonadocs.com/) using Docusaurus. It includes your smart contract
-documentation with interactive widgets to help developers get started integrating quickly.
+The origin-dollar project is a repo that hosts the smart contracts of some Origin DeFi projects including OUSD and OETH. This website was generated with [Bonadocs](https://bonadocs.com/) using Docusaurus. It includes your smart contract
+documentation with interactive widgets to help origin developers get started integrating quickly.
 
 ## Contract Deployment Addresses
 
