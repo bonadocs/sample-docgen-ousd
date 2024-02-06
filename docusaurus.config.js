@@ -4,7 +4,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 export default {
-  "title": "My Project",
+  "title": "OUSD Project",
   "tagline": "Generated with Bonadocs",
   "favicon": "img/favicon.ico",
   "url": "https://your-documentation-site.com",
