@@ -35,9 +35,9 @@ export default {
   "themeConfig": {
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
-      "title": "My Project",
+      "title": "OUSD Project",
       "logo": {
-        "alt": "My Project Logo",
+        "alt": "OUSD Project Logo",
         "src": "img/logo.svg"
       },
       "items": [
